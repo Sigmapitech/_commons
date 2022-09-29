@@ -1,3 +1,6 @@
 [submodule "emacs"]
 	path = emacs
 	url = https://github.com/Epitech/epitech-emacs
+[submodule "dump"]
+	path = dump
+	url = https://github.com/Epitech/dump
